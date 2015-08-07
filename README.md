@@ -124,8 +124,6 @@ Scrivener
 
 [Статьи и видео о тексте](https://docs.google.com/spreadsheets/d/1051pQWgjN5bWjgDcp0DrxyOYH3Bla9zl5lhMyiRVlow/edit) — полезная памятка.
 
-### Полезные сервисы
-
 [Главред](http://glvrd.ru/)
 
 [Орфограммка](http://orfogrammka.ru/)
