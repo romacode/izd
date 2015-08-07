@@ -82,7 +82,7 @@ Wired for Story: The Writer’s Guide to Using Brain Science to Hook Readers fro
 
 #### Как писать стихи?
 
-Маяковский. Как делать стихи
+«Как делать стихи», Маяковский.
 
 ## Программы
 Microsoft Word
