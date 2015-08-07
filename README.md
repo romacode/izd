@@ -116,6 +116,10 @@ Scrivener
 
 [Графомания, как она есть. Введение и оглавление](https://docs.google.com/document/d/10599mChgY0LVX3YlVphFf7N_LrexRJwtfJarti1cmFg/edit?pli=1) — отличная статья с разбором основных ошибок графомана.
 
+[Рассылка Главреда](http://maximilyahov.ru/blog/?go=all/availability/)
+
+[Статьи и видео о тексте](https://docs.google.com/spreadsheets/d/1051pQWgjN5bWjgDcp0DrxyOYH3Bla9zl5lhMyiRVlow/edit) — полезная памятка.
+
 ### Полезные сервисы
 
 [Главред](http://glvrd.ru/)
