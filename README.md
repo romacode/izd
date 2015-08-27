@@ -72,7 +72,7 @@ Wired for Story: The Writer&rsquo;s Guide to&nbsp;Using Brain Science to&nbsp;Ho
 
 Начни с&nbsp;конца.
 
-Прочитай кучу сюжетов, а&nbsp;далее&nbsp;&mdash; смешать, но&nbsp;не&nbsp;взбалтывать.
+Прочитай кучу сюжетов, а&nbsp;далее&nbsp;&mdash; смешай, но&nbsp;не&nbsp;взбалтывай.
 
 Начни писать&nbsp;то, что пришло в&nbsp;голову, а&nbsp;там уже придумывать по&nbsp;ходу всё остальное. Если сюжет придумался кусками (три эпизода из&nbsp;начала, парочка из&nbsp;середины, один из&nbsp;конца)&nbsp;&mdash; выпиши все эти куски и&nbsp;соединяй.
 
