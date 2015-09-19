@@ -126,15 +126,15 @@ Scrivener
 
 [Статьи и&nbsp;видео о&nbsp;тексте](https://docs.google.com/spreadsheets/d/1051pQWgjN5bWjgDcp0DrxyOYH3Bla9zl5lhMyiRVlow/edit)&nbsp;&mdash; полезная памятка.
 
-[Главред](http://glvrd.ru/)
+[Главред](http://glvrd.ru/) — помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю.
 
-[Орфограммка](http://orfogrammka.ru/)
+[Орфограммка](http://orfogrammka.ru/) — это интеллектуальный веб-сервис проверки орфографии, грамматики, пунктуации и стилистики.
 
-[Правила русского языка](http://therules.ru/)
+[Правила русского языка](http://therules.ru/) — правила русской орфографии и пунктуации с быстрым и умным поиском.
 
-[Оценка читабельности текста](http://readability.io/)
+[Упражнения по&nbsp;русскому языку](http://rusyaz-online.ru/) — упражнения по орфографии и пунктуации охватывают программу всех классов.
 
-[Упражнения по&nbsp;русскому языку](http://rusyaz-online.ru/)
+[Оценка читабельности текста](http://readability.io/).
 
 [Быстрые клавиши](https://support.google.com/chromebook/answer/183101?hl=ru#textediting)
 
