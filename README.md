@@ -122,9 +122,9 @@ Scrivener
 
 [Графомания, как она есть. Введение и&nbsp;оглавление](https://docs.google.com/document/d/10599mChgY0LVX3YlVphFf7N_LrexRJwtfJarti1cmFg/edit?pli=1)&nbsp;&mdash; отличная статья с&nbsp;разбором основных ошибок графомана.
 
-[Рассылка Главреда](http://maximilyahov.ru/blog/?go=all/availability/)&nbsp;&mdash; все выпуски.
-
 [Статьи и&nbsp;видео о&nbsp;тексте](https://docs.google.com/spreadsheets/d/1051pQWgjN5bWjgDcp0DrxyOYH3Bla9zl5lhMyiRVlow/edit)&nbsp;&mdash; полезная памятка.
+
+[Рассылка Главреда](http://maximilyahov.ru/blog/?go=all/availability/)&nbsp;&mdash; все выпуски.
 
 [Главред](http://glvrd.ru/) — помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю.
 
