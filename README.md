@@ -112,13 +112,13 @@ Scrivener
 
 [lib.ru](http://lib.ru/)&nbsp;&mdash; и&nbsp;снова просвещайтесь.
 
-[avtoram.com](http://www.avtoram.com/)&nbsp;&mdash; справочник писателя. Дополняет книгу Барякиной, содержит статьи, которых в&nbsp;этой книге нет (издание уже не&nbsp;новое, а&nbsp;сайт обновляется). За&nbsp;доступ к&nbsp;некоторым статьям нужно заплатить.
+[Справочник писателя](http://www.avtoram.com/) дополняет книгу Барякиной. Содержит статьи, которых в&nbsp;этой книге нет (издание уже не&nbsp;новое, а&nbsp;сайт обновляется). За&nbsp;доступ к&nbsp;некоторым статьям нужно заплатить.
 
-[chitalnya.ru](http://www.chitalnya.ru/commentary/3028/)&nbsp;&mdash; список литературы (много ссылок протухло).
+[Начинающим прозаикам](http://www.chitalnya.ru/commentary/3028/)&nbsp;&mdash; список литературы (много ссылок протухло).
 
-[klikin.ru](http://www.klikin.ru/writer.htm)&nbsp;&mdash; каталог ссылок на&nbsp;электронные версии книг. Имеется информация о&nbsp;журналах, в&nbsp;которых можно издаваться (и&nbsp;здесь протухло несколько).
+[Каталог ссылок на&nbsp;электронные версии книг](http://www.klikin.ru/writer.htm)&nbsp;&mdash; имеется информация о&nbsp;журналах, в&nbsp;которых можно издаваться (и&nbsp;здесь протухло несколько).
 
-[vsekonkursy.ru](http://vsekonkursy.ru/?cat=20)&nbsp;&mdash; информация по&nbsp;литературным конкурсам.
+[Информация по&nbsp;литературным конкурсам](http://vsekonkursy.ru/?cat=20).
 
 [Графомания, как она есть. Введение и&nbsp;оглавление](https://docs.google.com/document/d/10599mChgY0LVX3YlVphFf7N_LrexRJwtfJarti1cmFg/edit?pli=1)&nbsp;&mdash; отличная статья с&nbsp;разбором основных ошибок графомана.
 
