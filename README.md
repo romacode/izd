@@ -106,7 +106,7 @@ Scrivener
 
 [drive.google.com](https://drive.google.com)&nbsp;&mdash; сюда тоже, только нужна регистрация.
 
-[flibusta.net](http://flibusta.net/)&nbsp;&mdash; просвещайтесь, графоманы.
+[flibusta.me](http://flibusta.me/)&nbsp;&mdash; просвещайтесь, графоманы.
 
 [lib.rus.ec](http://lib.rus.ec/)&nbsp;&mdash; просвещайтесь.
 
