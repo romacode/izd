@@ -138,7 +138,7 @@ Scrivener
 
 [Видеоуроки](http://interneturok.ru/ru/school/russian/9-klass) и [упражнения](http://rusyaz-online.ru/) по&nbsp;русскому языку охватывают программу всех классов.
 
-[Оценка читабельности текста](http://readability.io/).
+[Оценка читабельности текста](http://plainrussian.ru/).
 
 [Быстрые клавиши](https://support.google.com/chromebook/answer/183101?hl=ru#textediting)
 
