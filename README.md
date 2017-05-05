@@ -93,15 +93,22 @@ Wired for Story: The Writer&rsquo;s Guide to&nbsp;Using Brain Science to&nbsp;Ho
 ## Программы
 **Ассистент литератора**
 [Celtx](https://www.celtx.com/)
+
 [Scrivener](https://ru.wikipedia.org/wiki/Scrivener)
+
 [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
 
 **Текстовые редакторы**
 [Sublime Text](https://www.sublimetext.com/) + [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) 
-Тypora (https://typora.io/)
+
+[Тypora](https://typora.io/)
+
 Microsoft Word
+
 FocusWriter (для Linux-платформ)
+
 ZenWriter (OmmWriter)
+
 
 ## Ссылки
 [pastebin.ru](http://pastebin.ru/)&nbsp;&mdash; сюда можно заливать все свои тексты.
