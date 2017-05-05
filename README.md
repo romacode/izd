@@ -92,6 +92,7 @@ Wired for Story: The Writer&rsquo;s Guide to&nbsp;Using Brain Science to&nbsp;Ho
 
 ## Программы
 **Ассистент литератора**
+
 [Celtx](https://www.celtx.com/)
 
 [Scrivener](https://ru.wikipedia.org/wiki/Scrivener)
@@ -99,6 +100,7 @@ Wired for Story: The Writer&rsquo;s Guide to&nbsp;Using Brain Science to&nbsp;Ho
 [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
 
 **Текстовые редакторы**
+
 [Sublime Text](https://www.sublimetext.com/) + [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) 
 
 [Тypora](https://typora.io/)
