@@ -91,19 +91,17 @@ Wired for Story: The Writer&rsquo;s Guide to&nbsp;Using Brain Science to&nbsp;Ho
 Маяковский В.&nbsp;В. Как делать стихи?
 
 ## Программы
+**Ассистент литератора**
+[Celtx](https://www.celtx.com/)
+[Scrivener](https://ru.wikipedia.org/wiki/Scrivener)
+[FreeMind](http://freemind.sourceforge.net/wiki/index.php/Download)
+
+**Текстовые редакторы**
+[Sublime Text](https://www.sublimetext.com/) + [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) 
+Тypora (https://typora.io/)
 Microsoft Word
-
-ZenWriter (OmmWriter)
-
 FocusWriter (для Linux-платформ)
-
-FreeMind
-
-Celtx
-
-Scrivener
-
-[Sublime Text](https://www.sublimetext.com/) + [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing)
+ZenWriter (OmmWriter)
 
 ## Ссылки
 [pastebin.ru](http://pastebin.ru/)&nbsp;&mdash; сюда можно заливать все свои тексты.
